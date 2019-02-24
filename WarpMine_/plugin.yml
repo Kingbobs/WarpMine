@@ -1,0 +1,9 @@
+name: WarpMine
+version: 0.1
+author: Phuongaz
+main: phuongaz\Main
+api: 3.0.0
+
+commands:
+ tpmine:
+  description: "Dịch chuyển đến khu mine hiện tại của bạn"
